@@ -1,6 +1,6 @@
-Name: Awa Emmanuel
-Matric Number: 23CE034385
+Name: Idowu Eyitope
+Matric Number: 23CH034190
 Machine Learning Algorithm Used: Random Forest Classifier
 Model Persistence Method: Pickle
-Live URL: https://wine-prediction-project-awa-emmanuel.onrender.com/
-GitHub Repository: https://github.com/AwaEmmanuel-lab/Wine_prediction_Project_Awa_Emmanuel_23CE034385
+Live URL: https://wine-prediction-project-idowu-eyitope.onrender.com
+GitHub Repository: https://github.com/Oreoluwanimi-ID/Wine_prediction_Project_Idowu_Eyitope_23CH034190
